@@ -2,7 +2,7 @@
 
 ## Who am I
 
-Tamara Temple
+# Tamara Temple
 
 - 😄 Pronouns: She/her/hers, they/them are also good
 - :computer: Software engineer
