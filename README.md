@@ -13,12 +13,21 @@ Tamara Temple
 ## 🔭 I’m currently working on
 
 - The Grateful Garment Project <https://gratefulgarment.org>
-- #causeascene, and becoming an anti-racist
+- [#causeascene bootcamp](https://hashtagcauseascene.com/bootcamp/), and becoming an [anti-racist](https://hashtagcauseascene.com/guiding-principles/)
+- helping traditionally underserved and marginalized people wanting to get in software development, learning technology and how to navigate these spaces that have traditionally been hostile
 
+## My guiding principles
 
+Adopted from [#causeascene](https://hashtagcauseascene.com/guiding-principles/):
 
-# 🌱 I’m currently learning
+1. Tech is Not Neutral, Nor is it Apolitical
+2. Intention without Strategy is Chaos
+3. Lack of Inclusion is a Risk/Crisis Management Issue
+4. Prioritize the Most Vulnerable
 
+## 🌱 I’m currently learning
+
+- Ways in which I continue to cause harm and how to clean that up
 - Watercolour painting
 - Digital painting
 - Hugo
@@ -28,8 +37,8 @@ Tamara Temple
 <!-- - 🤔 I’m looking for help with ... -->
 ## 💬 Ask me about
 
-- Becoming a software developer
 - Becoming an anti-racist, unlearning oppression
+- Becoming a software developer
 - Watercolour painting, and making art in general
 
 ## 📫 How to reach me:
