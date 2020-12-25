@@ -2,7 +2,7 @@
 
 ## Who am I
 
-# Tamara Temple
+# :mouse: Tamara Temple, aka tamouse
 
 - 😄 Pronouns: She/her/hers, they/them are also good
 - :computer: Software engineer
@@ -16,7 +16,7 @@
 - [#causeascene bootcamp](https://hashtagcauseascene.com/bootcamp/), and becoming an [anti-racist](https://hashtagcauseascene.com/guiding-principles/)
 - helping traditionally underserved and marginalized people wanting to get in software development, learning technology and how to navigate these spaces that have traditionally been hostile
 
-## My guiding principles
+## :compass: My guiding principles
 
 Adopted from [#causeascene](https://hashtagcauseascene.com/guiding-principles/):
 
