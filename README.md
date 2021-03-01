@@ -12,9 +12,8 @@
 
 ## 🔭 I’m currently working on
 
-- The Grateful Garment Project <https://gratefulgarment.org>
-- [#causeascene bootcamp](https://hashtagcauseascene.com/bootcamp/), and becoming an [anti-racist](https://hashtagcauseascene.com/guiding-principles/)
 - helping traditionally underserved and marginalized people wanting to get in software development, learning technology and how to navigate these spaces that have traditionally been hostile
+- [#causeascene academy](https://hashtagcauseascene.com/bootcamp/), and becoming an [anti-racist](https://hashtagcauseascene.com/guiding-principles/)
 
 ## :compass: My guiding principles
 
