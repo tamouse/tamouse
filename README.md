@@ -29,8 +29,6 @@ Adopted from [#causeascene](https://hashtagcauseascene.com/guiding-principles/):
 - Ways in which I continue to cause harm and how to clean that up
 - Watercolour painting
 - Digital painting
-- Hugo
-- E11ty
 
 <!-- - 👯 I’m looking to collaborate on ...; -->
 <!-- - 🤔 I’m looking for help with ... -->
@@ -39,10 +37,11 @@ Adopted from [#causeascene](https://hashtagcauseascene.com/guiding-principles/):
 - Becoming an anti-racist, unlearning oppression
 - Becoming a software developer
 - Watercolour painting, and making art in general
+- Being more collborative, facilitative, and generally more helpful
 
 ## 📫 How to reach me:
 
-- email: info@tamouse.org
+- email: hey@tamouse.org
 - twitter: <https://twitter.com/tamouse>
 
 ## Links
