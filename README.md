@@ -41,12 +41,12 @@ Adopted from [#causeascene](https://hashtagcauseascene.com/guiding-principles/):
 
 ## 📫 How to reach me:
 
+- <https://t.me/tamouse_pontiki> - Telegram (someone already snagged tamouse ☹️)
 - email: hey@tamouse.org
 - twitter: <https://twitter.com/tamouse>
 
 ## Links
 
-- <https://t.me/tamouse_pontiki> - Telegram (someone already snagged tamouse ☹️)
 - <https://tamouse.org> - Personal landing page
 - <https://blog.tamouse.org> - Personal blog
 - <https://swaac.dev> - Software as a Craft: Tamouse's Personzal devblog
