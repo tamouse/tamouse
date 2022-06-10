@@ -14,6 +14,9 @@
 
 - helping traditionally underserved and marginalized people wanting to get in software development, learning technology and how to navigate these spaces that have traditionally been hostile
 - [#causeascene academy](https://hashtagcauseascene.com/bootcamp/), and becoming an [anti-racist](https://hashtagcauseascene.com/guiding-principles/)
+- Gathering and disseminating the product / project lore of a company, in order to help people onboard
+- Creating an impetus for learning, sharing, collaborating, and cummunity around software engineering, both in and out of work
+- Leveling up underrepresented and marginalized people in tech, helping them thrive in the tech world
 
 ## :compass: My guiding principles
 
