@@ -1,6 +1,6 @@
 ### Hi there!! 👋
 
-## Who am I
+## Who I am
 
 # :mouse: Tamara Temple, aka tamouse
 
