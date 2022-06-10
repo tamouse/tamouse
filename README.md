@@ -29,19 +29,19 @@ Adopted from [#causeascene](https://hashtagcauseascene.com/guiding-principles/):
 - Ways in which I continue to cause harm and how to clean that up
 - Watercolour painting
 - Digital painting
+- Time Series Analysis with Ruby and Postgresql
+- Rails Turbo and Hotwire
 
-<!-- - 👯 I’m looking to collaborate on ...; -->
-<!-- - 🤔 I’m looking for help with ... -->
 ## 💬 Ask me about
 
 - Becoming an anti-racist, unlearning oppression
-- Becoming a software developer
+- Leveling up as a software engineer 
 - Watercolour painting, and making art in general
 - Being more collborative, facilitative, and generally more helpful
 
 ## 📫 How to reach me:
 
-- <https://t.me/tamouse_pontiki> - Telegram (someone already snagged tamouse ☹️)
+- [Telegram](https://telegram.org/): <https://t.me/tamouse_pontiki> (someone already snagged tamouse ☹️)
 - email: hey@tamouse.org
 - twitter: <https://twitter.com/tamouse>
 
@@ -60,7 +60,7 @@ Adopted from [#causeascene](https://hashtagcauseascene.com/guiding-principles/):
 - Twitter: <https://twitter.com/tamouse>
 - Instagram: <https://www.instagram.com/pontiki.elpmet/>
 - Facebook: <https://www.facebook.com/tamara.temple>
-
+- LinkedIn: <https://www.linkedin.com/in/tamaratemple>
 
 <!--
 **tamouse/tamouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
