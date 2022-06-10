@@ -5,7 +5,7 @@
 # :mouse: Tamara Temple, aka tamouse
 
 - 😄 Pronouns: She/her/hers, they/them are also good
-- :computer: Software engineer
+- :computer: Senior Staff Software engineer
 - :paintbrush: Watercolourist
 - :woman: Mom to two wonderful, grown women that are changing the world
 - ⚡ Fun fact: I wrote my first software app in the summer of 1969, a lunar landing game written in BASIC and stored on punched paper tape, using a [tty-33 teletype](https://en.wikipedia.org/wiki/Teletype_Model_33)!
