@@ -34,10 +34,11 @@ Adopted from [#causeascene](https://hashtagcauseascene.com/guiding-principles/):
 
 ## 💬 Ask me about
 
-- Becoming an anti-racist, unlearning oppression
+- Mentoring
 - Leveling up as a software engineer 
 - Watercolour painting, and making art in general
 - Being more collborative, facilitative, and generally more helpful
+- Becoming an anti-racist, unlearning oppression
 
 ## 📫 How to reach me:
 
