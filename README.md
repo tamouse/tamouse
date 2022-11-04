@@ -2,21 +2,26 @@
 
 ## Who I am
 
-# :mouse: Tamara Temple, aka tamouse
+# :mouse: Tamara Temple, aka tamouse 
+(sometimes with a tail: tamouse__)
+(and sometimes tamouse_pontiki)
 
 - 😄 Pronouns: She/her/hers, they/them are also good
+- 🏳️‍🌈 Queer, LGBTIQ+ positive and supportive
+- Antifa, Abololishonist, Anti-Racist
 - :computer: Senior Staff Software engineer
 - :paintbrush: Watercolourist
 - :woman: Mom to two wonderful, grown women that are changing the world
-- ⚡ Fun fact: I wrote my first software app in the summer of 1969, a lunar landing game written in BASIC and stored on punched paper tape, using a [tty-33 teletype](https://en.wikipedia.org/wiki/Teletype_Model_33)!
+
+
+⚡ Fun fact: I wrote my first software app in the summer of 1969, a lunar landing game written in BASIC and stored on punched paper tape, using a [tty-33 teletype](https://en.wikipedia.org/wiki/Teletype_Model_33)!
 
 ## 🔭 I’m currently working on
 
-- helping traditionally underserved and marginalized people wanting to get in software development, learning technology and how to navigate these spaces that have traditionally been hostile
-- [#causeascene academy](https://hashtagcauseascene.com/bootcamp/), and becoming an [anti-racist](https://hashtagcauseascene.com/guiding-principles/)
+- Helping traditionally underserved and marginalized folks wanting to get in software development, learning technology and how to navigate these spaces that have traditionally been hostile
+- Building a personal practice in antiracism, antifascism, and liberation
 - Gathering and disseminating the product / project lore of a company, in order to help people onboard
-- Creating an impetus for learning, sharing, collaborating, and cummunity around software engineering, both in and out of work
-- Leveling up underrepresented and marginalized people in tech, helping them thrive in the tech world
+- Creating an impetus for learning, sharing, collaborating, and cummunity around the arts and practice of software engineering
 
 ## :compass: My guiding principl
 Adopted from [Guiding Principles](https://www.kimcrayton.com/guiding-principles/) by [Kim Crayton, The Antiracist Economist](https://www.kimcrayton.com/)
@@ -33,7 +38,7 @@ Adopted from [Guiding Principles](https://www.kimcrayton.com/guiding-principles/
 - Watercolour painting
 - Digital painting
 - Time Series Analysis with Ruby and Postgresql
-- Rails Turbo and Hotwire
+- Rails with Turbo and Hotwire
 
 ## 💬 Ask me about
 
