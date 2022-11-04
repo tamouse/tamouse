@@ -23,7 +23,7 @@
 - Gathering and disseminating the product / project lore of a company, in order to help people onboard
 - Creating an impetus for learning, sharing, collaborating, and cummunity around the arts and practice of software engineering
 
-## :compass: My guiding principl
+## :compass: My guiding principles
 Adopted from [Guiding Principles](https://www.kimcrayton.com/guiding-principles/) by [Kim Crayton, The Antiracist Economist](https://www.kimcrayton.com/)
 
 1. Tech is Not Neutral, Nor is it Apolitical
