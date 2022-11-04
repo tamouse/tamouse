@@ -18,14 +18,14 @@
 - Creating an impetus for learning, sharing, collaborating, and cummunity around software engineering, both in and out of work
 - Leveling up underrepresented and marginalized people in tech, helping them thrive in the tech world
 
-## :compass: My guiding principles
-
-Adopted from [#causeascene](https://hashtagcauseascene.com/guiding-principles/):
+## :compass: My guiding principl
+Adopted from [Guiding Principles](https://www.kimcrayton.com/guiding-principles/) by [Kim Crayton, The Antiracist Economist](https://www.kimcrayton.com/)
 
 1. Tech is Not Neutral, Nor is it Apolitical
 2. Intention without Strategy is Chaos
-3. Lack of Inclusion is a Risk/Crisis Management Issue
-4. Prioritize the Most Vulnerable
+3. Lack of Inclusion is a Risk/Crisis Management Issue  
+    ... _and lastly and most importantly:_
+4. **Prioritize the Most Vulnerable**
 
 ## 🌱 I’m currently learning
 
@@ -37,17 +37,17 @@ Adopted from [#causeascene](https://hashtagcauseascene.com/guiding-principles/):
 
 ## 💬 Ask me about
 
-- Mentoring
+- Being more collborative, facilitative, and generally more helpful
+- Building a practice of anti-racism
+- Building a practice of anti-fascism
+- Building a practice as a mentor
 - Leveling up as a software engineer 
 - Watercolour painting, and making art in general
-- Being more collborative, facilitative, and generally more helpful
-- Becoming an anti-racist, unlearning oppression
 
 ## 📫 How to reach me:
 
 - [Telegram](https://telegram.org/): <https://t.me/tamouse_pontiki> (someone already snagged tamouse ☹️)
 - email: hey@tamouse.org
-- twitter: <https://twitter.com/tamouse>
 
 ## Links
 
@@ -61,6 +61,10 @@ Adopted from [#causeascene](https://hashtagcauseascene.com/guiding-principles/):
 
 ## Social
 
+- Fediverse: `@tamouse@ruby.social` <https://ruby.social/web/@tamouse>
+- and: PixelFed: <https://pixelfed.social/tamouse>
+
+### Less and less frequently, I hope:
 - Twitter: <https://twitter.com/tamouse>
 - Instagram: <https://www.instagram.com/pontiki.elpmet/>
 - Facebook: <https://www.facebook.com/tamara.temple>
