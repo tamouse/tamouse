@@ -53,6 +53,7 @@ Adopted from [Guiding Principles](https://www.kimcrayton.com/guiding-principles/
 
 - [Telegram](https://telegram.org/): <https://t.me/tamouse_pontiki> (someone already snagged tamouse ☹️)
 - email: hey@tamouse.org
+- Openings (schedule a virtual meeting with me) <https://fantastical.app/info-PR2q/my-template>
 
 ## Links
 
