@@ -1,6 +1,12 @@
 ### Hi there!! 👋
 
-## Who I am
+## 📫 How to reach me:
+
+- [Telegram](https://telegram.org/): <https://t.me/tamouse_pontiki> (someone already snagged tamouse ☹️)
+- email: hey@tamouse.org
+- Calendly: (schedule a virtual meeting with me) <https://calendly.com/tamouse>
+
+## Who I am:
 
 # :mouse: Tamara Temple, aka tamouse 
 (sometimes with a tail: tamouse__)
@@ -48,12 +54,6 @@ Adopted from [Guiding Principles](https://www.kimcrayton.com/guiding-principles/
 - Building a practice as a mentor
 - Leveling up as a software engineer 
 - Watercolour painting, and making art in general
-
-## 📫 How to reach me:
-
-- [Telegram](https://telegram.org/): <https://t.me/tamouse_pontiki> (someone already snagged tamouse ☹️)
-- email: hey@tamouse.org
-- Openings (schedule a virtual meeting with me) <https://fantastical.app/info-PR2q/my-template>
 
 ## Links
 
