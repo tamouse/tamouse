@@ -67,8 +67,9 @@ Adopted from [Guiding Principles](https://www.kimcrayton.com/guiding-principles/
 
 ## Social
 
-- Fediverse: `@tamouse@ruby.social` <https://ruby.social/web/@tamouse>
-- and: PixelFed: <https://pixelfed.social/tamouse>
+- [Mastodon](https://joinmastodon.com): `@tamouse@ruby.social` <https://ruby.social/web/@tamouse>
+- PixelFed: <https://pixelfed.social/tamouse>
+- [Bookwyrm](https://joinbookwyrn.com): `tamouse@books.theunseen.city` <https://books.theunseen.city/user/tamouse> 
 
 ### Less and less frequently, I hope:
 - Twitter: <https://twitter.com/tamouse>
