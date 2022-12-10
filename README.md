@@ -77,6 +77,15 @@ Adopted from [Guiding Principles](https://www.kimcrayton.com/guiding-principles/
 - Facebook: <https://www.facebook.com/tamara.temple>
 - LinkedIn: <https://www.linkedin.com/in/tamaratemple>
 
+## Wish Lists
+
+* [Bandcamp (Music)](https://bandcamp.com/tamouse/wishlist)
+* [Tamara's Wish List (Amazon)](https://www.amazon.com/hz/wishlist/ls/RIMS0DVYTO8C?ref_=wl_share)
+* [Art Studio (Amazon)](https://www.amazon.com/hz/wishlist/ls/XBS5LF9M59CU?ref_=wl_share)
+* [Goulet Pens](https://www.gouletpens.com/pages/my-wishlist)
+* [Dick Blick Art Supplies](https://www.dickblick.com/myaccount/wishlist/T5R7XFRUGCT4M/)
+* 
+
 <!--
 **tamouse/tamouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
