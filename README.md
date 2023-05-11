@@ -2,6 +2,7 @@
 
 ## 📫 How to reach me:
 
+- **NEW** [Bluesky: `@tamouse.bsky.social`](https://bsky.app/profile/tamouse.bsky.social)
 - [Telegram](https://telegram.org/): <https://t.me/tamouse_pontiki> (someone already snagged tamouse ☹️)
 - email: hey@tamouse.org
 - Calendly: (schedule a virtual meeting with me) <https://calendly.com/tamouse>
