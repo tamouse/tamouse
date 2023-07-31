@@ -3,7 +3,7 @@
 ## 📫 How to reach me:
 
 - **NEW** [Bluesky: `@tamouse.org`](https://bsky.app/profile/tamouse.org)
-- [Telegram](https://telegram.org/): <https://t.me/tamouse_pontiki> (someone already snagged tamouse ☹️)
+- [Mastodon](https://joinmastodon.com): `@tamouse@ruby.social` <https://ruby.social/web/@tamouse>
 - email: hey@tamouse.org
 - Calendly: (schedule a virtual meeting with me) <https://calendly.com/tamouse>
 
@@ -70,7 +70,8 @@ Adopted from [Guiding Principles](https://www.kimcrayton.com/guiding-principles/
 
 - [Mastodon](https://joinmastodon.com): `@tamouse@ruby.social` <https://ruby.social/web/@tamouse>
 - PixelFed: <https://pixelfed.social/tamouse>
-- [Bookwyrm](https://joinbookwyrn.com): `tamouse@books.theunseen.city` <https://books.theunseen.city/user/tamouse> 
+- [Bookwyrm](https://joinbookwyrn.com): `tamouse@books.theunseen.city` <https://books.theunseen.city/user/tamouse>
+- [Telegram](https://telegram.org/): <https://t.me/tamouse_pontiki> (someone already snagged tamouse ☹️)
 
 ### Less and less frequently, I hope:
 - Twitter: <https://twitter.com/tamouse>
