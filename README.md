@@ -2,7 +2,6 @@
 
 ## 📫 How to reach me:
 
-- **NEW** [Bluesky: `@tamouse.org`](https://bsky.app/profile/tamouse.org)
 - [Mastodon](https://joinmastodon.com): `@tamouse@ruby.social` <https://ruby.social/web/@tamouse>
 - email: hey@tamouse.org
 - Calendly: (schedule a virtual meeting with me) <https://calendly.com/tamouse>
@@ -69,15 +68,17 @@ Adopted from [Guiding Principles](https://www.kimcrayton.com/guiding-principles/
 ## Social
 
 - [Mastodon](https://joinmastodon.com): `@tamouse@ruby.social` <https://ruby.social/web/@tamouse>
-- PixelFed: <https://pixelfed.social/tamouse>
+- PixelFed: <https://pixelfed.social/tamouse> -- sorta like IG
 - [Bookwyrm](https://joinbookwyrn.com): `tamouse@books.theunseen.city` <https://books.theunseen.city/user/tamouse>
-- [Telegram](https://telegram.org/): <https://t.me/tamouse_pontiki> (someone already snagged tamouse ☹️)
 
-### Less and less frequently, I hope:
-- Twitter: <https://twitter.com/tamouse>
+### Less frequently:
+- Xitter: <https://twitter.com/tamouse> -- **note** shuttering this soon
 - Instagram: <https://www.instagram.com/pontiki.elpmet/>
-- Facebook: <https://www.facebook.com/tamara.temple>
+- Facebook, FB Messenger: <https://www.facebook.com/tamara.temple>
+- Threads: <https://www.threads.net/@tamouse_pontiki> -- I haven't found anything interesting here 
+- [Bluesky: `@tamouse.org`](https://bsky.app/profile/tamouse.org) -- I haven't found this worth being on yet
 - LinkedIn: <https://www.linkedin.com/in/tamaratemple>
+- [Telegram](https://telegram.org/): <https://t.me/tamouse_pontiki> (someone already snagged tamouse ☹️)
 
 ## Wish Lists
 
