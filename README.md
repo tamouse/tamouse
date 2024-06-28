@@ -2,7 +2,6 @@
 
 ## 📫 How to reach me:
 
-- [Mastodon](https://joinmastodon.com): `@tamouse@ruby.social` <https://ruby.social/web/@tamouse>
 - email: hey@tamouse.org
 - Calendly: (schedule a virtual meeting with me) <https://calendly.com/tamouse>
 
@@ -15,10 +14,9 @@
 - 😄 Pronouns: She/her/hers, they/them are also good
 - 🏳️‍🌈 Queer, LGBTIQ+ positive and supportive
 - Antifa, Abololishonist, Anti-Racist
-- :computer: Senior Staff Software engineer
-- :paintbrush: Watercolourist
-- :woman: Mom to two wonderful, grown women that are changing the world
-
+- :computer: _Retired_ Senior Staff Software engineer
+- :paintbrush: Watercolourist, and other analog media
+- :woman: Mom to two wonderful, grown women that are changing the world; Nana to two awesome grandkids; Cat Mom to Bonesie
 
 ⚡ Fun fact: I wrote my first software app in the summer of 1969, a lunar landing game written in BASIC and stored on punched paper tape, using a [tty-33 teletype](https://en.wikipedia.org/wiki/Teletype_Model_33)!
 
@@ -26,8 +24,8 @@
 
 - Helping traditionally underserved and marginalized folks wanting to get in software development, learning technology and how to navigate these spaces that have traditionally been hostile
 - Building a personal practice in antiracism, antifascism, and liberation
-- Gathering and disseminating the product / project lore of a company, in order to help people onboard
-- Creating an impetus for learning, sharing, collaborating, and cummunity around the arts and practice of software engineering
+- Learning the craft of watercolour, as well as pencil (graphite), charcoal, and gouache media. Working on observational drawing skills
+
 
 ## :compass: My guiding principles
 Adopted from [Guiding Principles](https://www.kimcrayton.com/guiding-principles/) by [Kim Crayton, The Antiracist Economist](https://www.kimcrayton.com/)
@@ -42,9 +40,10 @@ Adopted from [Guiding Principles](https://www.kimcrayton.com/guiding-principles/
 
 - Ways in which I continue to cause harm and how to clean that up
 - Watercolour painting
+- Charcoal drawing
+- Graphite rendering
+- Urban & Loose sketching
 - Digital painting
-- Time Series Analysis with Ruby and Postgresql
-- Rails with Turbo and Hotwire
 
 ## 💬 Ask me about
 
@@ -58,36 +57,33 @@ Adopted from [Guiding Principles](https://www.kimcrayton.com/guiding-principles/
 ## Links
 
 - <https://tamouse.org> - Personal landing page
-- <https://blog.tamouse.org> - Personal blog
+- <https://blog.tamouse.org> - Personal blog (except it's broken)
 - <https://swaac.dev> - Software as a Craft: Tamouse's Personzal devblog
 - <https://tamouse.art> - The Art blog of tamouse
-  - companion site: <https://paintrag.art> - The Inglorious Paintrag 
 - <https://recipes.tamouse.org> - My personal cooking recipes
-- <https://resume.tamouse.org> - Professional resume for Software Engineering
 
 ## Social
 
 - [Mastodon](https://joinmastodon.com): `@tamouse@ruby.social` <https://ruby.social/web/@tamouse>
-- PixelFed: <https://pixelfed.social/tamouse> -- sorta like IG
-- [Bookwyrm](https://joinbookwyrn.com): `tamouse@books.theunseen.city` <https://books.theunseen.city/user/tamouse>
+<!-- - PixelFed: <https://pixelfed.social/tamouse> -- sorta like IG -->
+<!-- - [Bookwyrm](https://joinbookwyrn.com): `tamouse@books.theunseen.city` <https://books.theunseen.city/user/tamouse> -->
 
 ### Less frequently:
-- Xitter: <https://twitter.com/tamouse> -- **note** shuttering this soon
 - Instagram: <https://www.instagram.com/pontiki.elpmet/>
 - Facebook, FB Messenger: <https://www.facebook.com/tamara.temple>
 - Threads: <https://www.threads.net/@tamouse_pontiki> -- I haven't found anything interesting here 
 - [Bluesky: `@tamouse.org`](https://bsky.app/profile/tamouse.org) -- I haven't found this worth being on yet
+- Xitter: <https://twitter.com/tamouse> -- **note** shuttering this soon
 - LinkedIn: <https://www.linkedin.com/in/tamaratemple>
-- [Telegram](https://telegram.org/): <https://t.me/tamouse_pontiki> (someone already snagged tamouse ☹️)
+<!-- - [Telegram](https://telegram.org/): <https://t.me/tamouse_pontiki> (someone already snagged tamouse ☹️) -->
 
 ## Wish Lists
 
-* [Bandcamp (Music)](https://bandcamp.com/tamouse/wishlist)
+<!-- * [Bandcamp (Music)](https://bandcamp.com/tamouse/wishlist) -->
 * [Tamara's Wish List (Amazon)](https://www.amazon.com/hz/wishlist/ls/RIMS0DVYTO8C?ref_=wl_share)
 * [Art Studio (Amazon)](https://www.amazon.com/hz/wishlist/ls/XBS5LF9M59CU?ref_=wl_share)
 * [Goulet Pens](https://www.gouletpens.com/pages/my-wishlist)
 * [Dick Blick Art Supplies](https://www.dickblick.com/myaccount/wishlist/T5R7XFRUGCT4M/)
-* 
 
 <!--
 **tamouse/tamouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
