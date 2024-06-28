@@ -2,6 +2,8 @@
 
 ## 📫 How to reach me:
 
+- slack: [For the Horde](for-the-horde.slack.com) (invite only)
+- discord: [Callahan's Crosstime Discord](https://discord.com/channels/434493198572847114/434493198572847116) (ask for an invite by my email)
 - email: hey@tamouse.org
 - Calendly: (schedule a virtual meeting with me) <https://calendly.com/tamouse>
 
@@ -25,7 +27,7 @@
 - Helping traditionally underserved and marginalized folks wanting to get in software development, learning technology and how to navigate these spaces that have traditionally been hostile
 - Building a personal practice in antiracism, antifascism, and liberation
 - Learning the craft of watercolour, as well as pencil (graphite), charcoal, and gouache media. Working on observational drawing skills
-
+- Learning [logseq](https://logseq.com), and how to switch from *consuming* so much data to **producing** helpful content.
 
 ## :compass: My guiding principles
 Adopted from [Guiding Principles](https://www.kimcrayton.com/guiding-principles/) by [Kim Crayton, The Antiracist Economist](https://www.kimcrayton.com/)
@@ -64,10 +66,6 @@ Adopted from [Guiding Principles](https://www.kimcrayton.com/guiding-principles/
 
 ## Social
 
-- [Mastodon](https://joinmastodon.com): `@tamouse@ruby.social` <https://ruby.social/web/@tamouse>
-<!-- - PixelFed: <https://pixelfed.social/tamouse> -- sorta like IG -->
-<!-- - [Bookwyrm](https://joinbookwyrn.com): `tamouse@books.theunseen.city` <https://books.theunseen.city/user/tamouse> -->
-
 ### Less frequently:
 - Instagram: <https://www.instagram.com/pontiki.elpmet/>
 - Facebook, FB Messenger: <https://www.facebook.com/tamara.temple>
@@ -76,6 +74,9 @@ Adopted from [Guiding Principles](https://www.kimcrayton.com/guiding-principles/
 - Xitter: <https://twitter.com/tamouse> -- **note** shuttering this soon
 - LinkedIn: <https://www.linkedin.com/in/tamaratemple>
 <!-- - [Telegram](https://telegram.org/): <https://t.me/tamouse_pontiki> (someone already snagged tamouse ☹️) -->
+- [Mastodon](https://joinmastodon.com): `@tamouse@ruby.social` <https://ruby.social/web/@tamouse>
+<!-- - PixelFed: <https://pixelfed.social/tamouse> -- sorta like IG -->
+<!-- - [Bookwyrm](https://joinbookwyrn.com): `tamouse@books.theunseen.city` <https://books.theunseen.city/user/tamouse> -->
 
 ## Wish Lists
 
