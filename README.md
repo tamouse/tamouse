@@ -1,6 +1,6 @@
 ### Hi there!! 👋
 
-I'm *retired* [software engineer](https://swaac.dev "retired, as in I'm looking for work or projects, thanks") recovering from the rat race and hellscape that modern web companies have become by focusing all my attention on [creating art](https://tamouse.art).
+I'm ***retired*** [software engineer](https://swaac.dev "retired, as in I am NOT looking for work or projects, thanks") recovering from the rat race and hellscape that modern web companies have become by focusing all my attention on [creating art](https://tamouse.art).
 
 ## 📫 How to reach me:
 
