@@ -12,7 +12,7 @@ I'm ***retired*** [software engineer](https://swaac.dev "retired, as in I am NOT
 - <https://swaac.dev> - Software as a Craft: Tamouse's Personsal devblog
 
 ## Other Links
-- :key: Keybase.io: https://keybase.io/tamouse_ (web of trust)
+- :key: Keybase.io: [ https://keybase.io/tamouse_]( https://keybase.io/tamouse_ "web of trust")
 
 ## Socials
 
@@ -30,7 +30,7 @@ These xitter replacements haven't really done much for me yet, but I'm on there:
 ## Who I am:
 
 # :mouse: Tamara Temple, aka tamouse 
-(sometimes with a tail: tamouse__)  
+(sometimes with a tail: tamouse__)
 (and sometimes tamouse_pontiki)
 
 - 😄 Pronouns: She/her/hers, they/them are also good if you can't be sure 
