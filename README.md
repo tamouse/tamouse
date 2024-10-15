@@ -5,7 +5,6 @@ I'm ***retired*** [software engineer](https://swaac.dev "retired, as in I am NOT
 ## 📫 How to reach me:
 
 - email: tamouse@gmail.com
-- Calendly: (schedule a virtual meeting with me) <https://calendly.com/tamouse
 - Keybase.io: https://keybase.io/tamouse_ (web of trust)
 
 ## Socials
