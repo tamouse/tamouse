@@ -18,7 +18,7 @@ I'm ***retired*** [software engineer](https://swaac.dev "retired, as in I am NOT
 
 - Instagram:
   - art: https://www.instagram.com/tamouse.art/
-  - cooking: https://www.instagram.com/tamouse.art/
+  - cooking: https://www.instagram.com/tamouse.cooks/
   - political: https://www.instagram.com/tamouse_pontiki/
 - Facebook, FB Messenger: <https://www.facebook.com/tamara.temple>
 - [Mastodon](https://joinmastodon.com): `@tamouse@ruby.social` <https://ruby.social/web/@tamouse>
@@ -30,7 +30,7 @@ These xitter replacements haven't really done much for me yet, but I'm on there:
 ## Who I am:
 
 # :mouse: Tamara Temple, aka tamouse 
-(sometimes with a tail: tamouse__)
+(sometimes with a tail: tamouse__)  
 (and sometimes tamouse_pontiki)
 
 - 😄 Pronouns: She/her/hers, they/them are also good if you can't be sure 
