@@ -5,7 +5,14 @@ I'm ***retired*** [software engineer](https://swaac.dev "retired, as in I am NOT
 ## 📫 How to reach me:
 
 - email: tamouse@gmail.com
-- Keybase.io: https://keybase.io/tamouse_ (web of trust)
+
+## Sites run by me
+- <https://tamouse.art> - The Art blog of tamouse
+- <https://blog.tamouse.org> - Personal blog
+- <https://swaac.dev> - Software as a Craft: Tamouse's Personsal devblog
+
+## Other Links
+- :key: Keybase.io: https://keybase.io/tamouse_ (web of trust)
 
 ## Socials
 
@@ -40,8 +47,3 @@ Adopted from [Guiding Principles](https://www.kimcrayton.com/guiding-principles/
 3. Lack of Inclusion is a Risk/Crisis Management Issue  
     ... _and lastly and most importantly:_
 4. **Prioritize the Most Vulnerable**
-
-## Links
-- <https://blog.tamouse.org> - Personal blog (except it's broken)
-- <https://tamouse.art> - The Art blog of tamouse
-- <https://swaac.dev> - Software as a Craft: Tamouse's Personzal devblog
