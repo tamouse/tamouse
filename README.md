@@ -16,16 +16,14 @@ I'm ***retired*** [software engineer](https://swaac.dev "retired, as in I am NOT
 
 ## Socials
 
+- [Bluesky: `@tamouse.org`](https://bsky.app/profile/tamouse.org)
+- [Mastodon](https://joinmastodon.com): `@tamouse@ruby.social` <https://ruby.social/web/@tamouse>
+
 - Instagram:
   - art: https://www.instagram.com/tamouse.art/
   - cooking: https://www.instagram.com/tamouse.cooks/
   - political: https://www.instagram.com/tamouse_pontiki/
 - Facebook, FB Messenger: <https://www.facebook.com/tamara.temple>
-- [Mastodon](https://joinmastodon.com): `@tamouse@ruby.social` <https://ruby.social/web/@tamouse>
-
-These xitter replacements haven't really done much for me yet, but I'm on there:
-- Threads: <https://www.threads.net/@tamouse_pontiki>
-- [Bluesky: `@tamouse.org`](https://bsky.app/profile/tamouse.org)
 
 ## Who I am:
 
