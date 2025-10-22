@@ -34,6 +34,6 @@ The one principle I adhere to first and foremost:
 ## Socials
 
 - [Bluesky: `@tamouse.art`](https://bsky.app/profile/tamouse.art) a refugee from x, but I joined years ago
-- [Mastodon](https://joinmastodon.com): `@tamouse@mastodon.art` <https://mastodon.arg/web/@tamouse> another refugee from x, also joined it years ago.
-- [Pixelfed]() instagram for the fediverse, joined it years ago, forgot about it, now that it's heating up I'm coming back
+- [Mastodon](https://joinmastodon.com): `@tamouse@mastodon.art` <https://mastodon.art/web/@tamouse> another refugee from x, also joined it years ago.
+- [Pixelfed](https://pixelfed.social/tamouse) instagram for the fediverse, joined it years ago, forgot about it, now that it's heating up I'm coming back
 
